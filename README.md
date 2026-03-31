@@ -1,0 +1,111 @@
+> 📦 **Módulo 3:** Clase 4 de 4 — Demo Day
+
+# Clase 12: Proyecto Final - Demo Day
+
+## Resumen
+
+Llegaste al final de Code 101. En las últimas 11 clases pasaste de no saber qué era HTML a crear un juego interactivo con JavaScript. Hoy es el día de mostrar lo que lograste.
+
+Esta clase tiene dos partes: un **test diagnóstico** rápido (15 minutos) que nos ayuda a medir el aprendizaje del módulo, y el **Demo Day** donde cada estudiante presenta su juego "Adivina el Número" al grupo. No hay contenido nuevo—hoy es celebración, demostración y reflexión.
+
+**Proyecto del Módulo:** Adivina el Número - Juego Interactivo
+
+---
+
+## ¿Por qué te sirve?
+
+- **Presentar tu trabajo es una habilidad profesional.** En la industria tech, los desarrolladores presentan demos de sus proyectos regularmente: en sprint reviews, reuniones de equipo y entrevistas de trabajo. Practicar hoy te prepara para esas situaciones.
+
+- **Explicar tu código demuestra comprensión real.** Cualquiera puede copiar código. Poder explicar qué hace cada función, por qué elegiste esa estructura, y cómo funciona la lógica—eso demuestra que realmente aprendiste.
+
+- **Cerrar ciclos es importante.** Completaste un curso completo. Tómate un momento para reconocer el camino recorrido.
+
+---
+
+## 🎯 ¿Qué haremos en clase?
+
+1. **Test diagnóstico** (15 min) - 8 preguntas sobre lo aprendido en el Módulo 3 (variables, condicionales, funciones). Es diagnóstico, NO afecta tu calificación.
+
+2. **Preparación** (15 min) - Verificar que tu juego funciona, practicar tu presentación de 3 minutos.
+
+3. **Demo Day** (~90 min) - Cada estudiante presenta su juego: demo en vivo + explicación de código.
+
+4. **Cierre del curso** (20 min) - Celebración, reflexión final y próximos pasos hacia Code 201.
+
+---
+
+## Objetivos de Aprendizaje
+
+Al finalizar esta clase, podrás:
+
+1. **Demostrar** tu juego funcionando en el navegador
+2. **Explicar** la lógica de tu código (funciones, condicionales, DOM)
+3. **Evaluar** tu propio aprendizaje a lo largo del Módulo 3
+4. **Identificar** los próximos pasos en tu camino como desarrollador
+
+---
+
+## ✅ Preparación para la Clase
+
+### Tu Juego Debe Estar Listo
+
+Verifica que tu juego "Adivina el Número" cumple con:
+
+- [ ] **Funcionalidad:** Genera número aleatorio, da pistas, detecta acierto
+- [ ] **Interfaz:** Input, botón, mensajes con colores, historial visible
+- [ ] **Código:** Organizado en funciones (`verificarIntento`, `reiniciarJuego`, `mostrarMensaje`)
+- [ ] **Repositorio:** Commits descriptivos en GitHub
+
+### Prepara tu Presentación (3 - 5 minutos)
+
+Tu presentación debe cubrir:
+
+| Sección | Tiempo | Qué mostrar |
+|---------|--------|-------------|
+| **Demo** | 1-2 min | Juega una ronda en vivo. Muestra pistas, historial, reinicio , consola |
+| **Código** | 1-3 min | Muestra 1-2 funciones clave y explica qué hacen , si deseas explica funcionalidades extras que agregastes |
+| **Reflexión** | 1 min | ¿Qué aprendiste? ¿Qué fue lo más difícil? ¿Qué mejorarías? |
+
+### Checklist Pre-Presentación
+
+- [ ] El juego funciona sin errores
+- [ ] Entender cada elemento de tu interfaz
+- [ ] Sabes explicar qué hacen las funciones claves de tu programa
+- [ ] Sabes explicar qué hace `addEventListener`
+- [ ] Tu repositorio tiene todos los commits
+
+---
+
+## 📁 Entregables requeridos
+
+- Archivo `index.html` con estructura mínima y título del juego.
+- Archivo `script.js` con el juego funcionando.
+- Enlace al repositorio de GitHub.
+
+---
+
+## ✅ Rúbrica de evaluación (100 puntos)
+
+| Criterio | Descripción | Puntos |
+|----------|-------------|--------|
+| 🎯 **Lógica del juego** | Genera número aleatorio, reconoce intentos, entrega mensajes adecuados según resultado. | 30 pts |
+| 🔀 **Uso de condicionales** | Usa `if` o `else` correctamente para evaluar los intentos del jugador y el flujo del juego. | 20 pts |
+| ✅ **Validaciones** | Verifica que el número ingresado esté entre 1 y 100 y no esté vacío o mal escrito. | 15 pts |
+| 🖥️ **Interfaz básica** | Usa elementos HTML en la interfaz visual con mensajes claros y personalizados. | 15 pts |
+| 📂 **Organización del código** | Código legible, ordenado, con comentarios y estructura básica en HTML. | 20 pts |
+
+---
+
+## 🧠 Recomendaciones
+
+- Agrega comentarios en tu código para explicar tu lógica.
+- Personaliza el mensaje final: usa nombre del usuario o emojis.
+- Personaliza los estilos CSS de tu interfaz.
+- Usa `Number()` para convertir la entrada de texto a número.
+
+---
+
+## Recursos Adicionales
+
+- [Tips para presentaciones técnicas](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web){:target="_blank"} - MDN: Primeros pasos en la web
+- [Code 201 - Siguiente nivel](https://www.entertechschool.com){:target="_blank"} - Continúa tu aprendizaje
