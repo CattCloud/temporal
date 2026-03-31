@@ -1,7 +1,3 @@
----
-layout: default
----
-
 > 📦 **Módulo 3:** Clase 4 de 4 — Demo Day
 
 # Clase 12: Proyecto Final - Demo Day
